@@ -41,10 +41,10 @@ _Image2_:
 _Image3_:
 ![Task2 Image](./project%20images/Task3.jpg)
 _Image4_:
-![Task3 Image](./project%20images/Task2.jpg)
+![Task3 Image](./project%20images/task2.jpg)
 _Image5_:
-![Task4 Image](./project%20images/Task4.jpg)
+![Task4 Image](./project%20images/task4.jpg)
 _Image6_:
-![Task5 Image](./project%20images/Task5.jpg)
+![Task5 Image](./project%20images/task5.jpg)
 
 # Thankyou for visiting my Project.
